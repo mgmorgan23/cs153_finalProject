@@ -6,9 +6,16 @@ Example call to the function:
 main(['./Data/20218_20171201/IM-0001-0002.dcm', './Data/20218_20171201/IM-0001-0007.dcm'], style = 0, intermediateSteps = True)
 
 This program does require the packages:
+
 matplotlib.pyplot
+
 cv2
+
 numpy
+
 pydicom
+
 os
+
 scipy.signal
+
